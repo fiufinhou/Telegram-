@@ -1,14 +1,14 @@
 {
-  "name": "telegram-nfc-bot",
+  "name": "telegram-bot-with-camera",
   "version": "1.0.0",
-  "description": "Telegram bot with NFC card scanning functionality",
+  "description": "Telegram bot with camera functionality",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "node-telegram-bot-api": "^0.53.0",
-    "@pokusew/nfc-pcsc": "^1.2.0" 
+    "node-webcam": "^0.5.0"
   },
   "license": "MIT"
 }
