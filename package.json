@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "node-telegram-bot-api": "^0.53.0",
-    "@pokusew/nfc-pcsc": "^1.2.0" // تم تحديث الإصدار لـ nfc-pcsc
+    "@pokusew/nfc-pcsc": "^1.2.0" 
   },
   "license": "MIT"
 }
