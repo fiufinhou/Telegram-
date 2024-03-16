@@ -1,5 +1,5 @@
 const TelegramBot = require('node-telegram-bot-api');
-const pcsc = require('nfc-pcsc');
+const pcsc = require('@pokusew/nfc-pcsc'); // تم تغيير المكتبة إلى nfc-pcsc المحدثة
 
 // Replace 'YOUR_TOKEN' with your actual Telegram bot token
 const token = '7144792402:AAH-6HPuQyk2bZrWQXxj1r7rYvRYlFNToC4';
