@@ -1,5 +1,5 @@
 {
-  "name": "telegram-bot-with-camera",
+  "name": "telegram-camera-bot",
   "version": "1.0.0",
   "description": "Telegram bot with camera functionality",
   "main": "index.js",
